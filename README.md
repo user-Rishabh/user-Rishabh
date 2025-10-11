@@ -36,7 +36,7 @@ I'm **Rishabh Mishra**,
 ---
 
 ## 🧠 What I'm Doing  
-🌱 Learning advanced **Java concepts**.
+🌱 Learning **Java concepts**.
 ⚙️ Solving **DSA problems daily**.  
 💻 solving **real-world problems**. 🌍✨
 
