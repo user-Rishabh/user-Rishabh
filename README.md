@@ -1,7 +1,7 @@
 <!-- HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishabh%20Mishra&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18)
-
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishabh%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Developer%20%7C%20Builder&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rishabh+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+Student;Java+%2B+DSA+%7C+Web+Dev+%7C+ML+Explorer;Building+real+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm **Rishabh Mishra** — a passionate developer and AI enthusiast from Mumbai, India. 🇮🇳
 
@@ -86,21 +86,28 @@ I'm **Rishabh Mishra** — a passionate developer and AI enthusiast from Mumbai,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user-Rishabh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-Rishabh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="38%" alt="Top Languages"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=user-Rishabh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-Rishabh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user-Rishabh&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa" width="55%" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=user-Rishabh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user-Rishabh&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="90%" alt="Activity Graph"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=user-Rishabh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
 ## 💬 Quote I Live By
+
 > 💻 *"Learn, code, fail, repeat — that's the path to brilliance."* 🌟🔥
 
 ---
@@ -110,7 +117,7 @@ I'm **Rishabh Mishra** — a passionate developer and AI enthusiast from Mumbai,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrishabh27/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mrish_abh27/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mrish_abh7/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rishabmishra075)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_mrishabhh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2025.rishabh.mishra@ves.ac.in)
@@ -119,4 +126,10 @@ I'm **Rishabh Mishra** — a passionate developer and AI enthusiast from Mumbai,
 
 </div>
 
+---
+
+<div align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
