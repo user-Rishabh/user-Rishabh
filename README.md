@@ -84,7 +84,7 @@ Building AI-powered products, full-stack applications, and developer tools.
 | **[CivicPulse](https://civicpulse-b545c.web.app)** | AI-powered civic issue reporting platform with dual dashboards, gamification & map view | React, Firebase, Gemini Vision, Leaflet.js |
 | **[SkillBridge](https://s-kill-bridge.vercel.app)** | Career readiness platform with AI roadmaps, mock interviews & quizzes | Supabase, OpenRouter, Gemini |
 | **[Smart Tatkal Guardian](https://github.com/nidhipatil57/Smart-Tatkal-Guardian)** | Real-time bot detection for IRCTC Tatkal booking using honeypots & behavioral scoring | React, Node, Render |
-| **Xenocognition Simulator** | Speculative tool modeling alien cognitive architectures | React, TypeScript, Canvas API |
+| **[Xenocognition Simulator](https://github.com/malavya1411/Xenocognition-Simulator)** | Speculative tool modeling alien cognitive architectures | React, TypeScript, Canvas API |
 
 ---
 
