@@ -20,15 +20,13 @@ Building AI-powered products, full-stack applications, and developer tools.
 - 📈 SGPA: 10.0 (Sem 1), 9.4 (Sem 2)
 - ⚡ I enjoy rapid prototyping with modern AI development tools while focusing on building reliable, production-ready applications.
 - 🏆 Active hackathon builder — Flare, MIT Hack-Nation, HackMars, FAR AWAY, Vibe2Ship, and more
-- 🧩 Currently deep in DSA (NeetCode 150, Striver's A2Z) alongside full-stack + AI product development
+- 🧩 Currently deep in DSA alongside full-stack + AI product development
 
 ---
 
 ### 🛠️ Currently Building
 
 **[DevLens AI](https://github.com/user-Rishabh/DevLens-AI)** — AI-powered codebase intelligence platform with repository visualization, semantic search, and RAG-based code understanding.
-
-**[SynthX](https://github.com/user-Rishabh/Synthetix)** — A synthetic asset trading application built on the Flare Coston2 testnet using Synthetix concepts and live PAXG/USD FTSO price feeds.
 
 ---
 
