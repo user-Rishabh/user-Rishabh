@@ -47,7 +47,7 @@ Currently exploring **backend development and systems**, while continuing to sha
 ## Projects
 | Project | Description | Stack |
 |---|---|---|
-| **[SkillBridge](https://s-kill-bridge.vercel.app)** | AI career readiness platform — skill gap analysis, personalized roadmaps, mock interviews, job readiness score | Supabase, OpenRouter, Gemini |
+| **[SkillBridge](https://s-kill-bridge.vercel.app)** | AI career readiness platform - skill gap analysis, personalized roadmaps, mock interviews, job readiness score | Supabase, OpenRouter, Gemini |
 | **[CivicPulse](https://civicpulse-b545c.web.app)** | Civic issue reporting platform with dual dashboards, map view, gamified reporting | React, Firebase, Gemini Vision, Leaflet.js |
 | **[DevLens AI](https://github.com/user-Rishabh/DevLens-AI)** | Paste a GitHub URL, get file structure, hotspot detection, hybrid semantic search, architecture overview | FastAPI, pgvector, tree-sitter, Groq |
 
