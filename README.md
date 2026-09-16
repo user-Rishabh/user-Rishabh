@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=14&duration=3200&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&height=30&lines=AI+%26+Data+Science+Student+%40+VESIT;Learning+by+building%2C+one+project+at+a+time" alt="tagline" />
 </p>
+
 ---
 
 </div>
